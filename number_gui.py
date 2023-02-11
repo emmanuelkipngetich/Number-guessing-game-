@@ -1,6 +1,6 @@
 import tkinter as tk
 import random
-import pywhatkit
+#import pywhatkit
 import datetime
 
 window = tk.Tk()
